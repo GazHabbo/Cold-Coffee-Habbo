@@ -1,0 +1,14 @@
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Reflection\Oldskool\bin\Debug\Reflection.exe
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Reflection\Oldskool\bin\Debug\Reflection.pdb
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Reflection\Oldskool\obj\x86\Debug\Reflection.csprojResolveAssemblyReference.cache
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Reflection\Oldskool\obj\x86\Debug\Reflection.exe
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Reflection\Oldskool\obj\x86\Debug\Reflection.pdb
+C:\Users\JoshuaTha\Documents\Reflection\Oldskool\obj\x86\Debug\Reflection.exe
+C:\Users\JoshuaTha\Documents\Reflection\Oldskool\obj\x86\Debug\Reflection.pdb
+C:\Users\JoshuaTha\Documents\Reflection\Oldskool\bin\Debug\Reflection.exe
+C:\Users\JoshuaTha\Documents\Reflection\Oldskool\bin\Debug\Reflection.pdb
+C:\Users\JoshuaTha\Documents\Reflection\Oldskool\obj\x86\Debug\Reflection.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Reflection\Oldskool\obj\x86\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Reflection\Oldskool\obj\x86\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Reflection\Oldskool\obj\x86\Debug\Reflection.exe
+C:\Users\acer\Desktop\Reflection\Oldskool\obj\x86\Debug\Reflection.pdb

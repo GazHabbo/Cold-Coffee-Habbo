@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{08200A4D-00D0-4FDA-8B94-86492679A0CD}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Reflection</RootNamespace>
+    <AssemblyName>Reflection</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.6.5\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Hotel\Engine.cs" />
+    <Compile Include="Hotel\Flats\FlatInfo.cs" />
+    <Compile Include="Hotel\Flats\FlatInstance.cs" />
+    <Compile Include="Hotel\Flats\FlatManager.cs" />
+    <Compile Include="Hotel\Flats\FlatUser.cs" />
+    <Compile Include="Hotel\Habbos\Club\HabboClub.cs" />
+    <Compile Include="Hotel\Habbos\Habbo.cs" />
+    <Compile Include="Hotel\Habbos\HabboManager.cs" />
+    <Compile Include="Hotel\Messages\clientMessage.cs" />
+    <Compile Include="Hotel\Messages\HabboMessages.cs" />
+    <Compile Include="Hotel\Messages\Requests\Catalogue.cs" />
+    <Compile Include="Hotel\Messages\Requests\Handshake.cs" />
+    <Compile Include="Hotel\Messages\Requests\User.cs" />
+    <Compile Include="Hotel\Messages\serverMessage.cs" />
+    <Compile Include="Hotel\Roles\RoleManager.cs" />
+    <Compile Include="Kernel\Collections\Dict.cs" />
+    <Compile Include="Kernel\Collections\Pair.cs" />
+    <Compile Include="Kernel\Database\DatabaseManager.cs" />
+    <Compile Include="Kernel\IO\ConsoleScreenBufferInfo.cs" />
+    <Compile Include="Kernel\IO\ConsoleWriter.cs" />
+    <Compile Include="Kernel\IO\Coord.cs" />
+    <Compile Include="Kernel\IO\Handles.cs" />
+    <Compile Include="Kernel\IO\SmallRect.cs" />
+    <Compile Include="Kernel\IO\Writer.cs" />
+    <Compile Include="Network\Game\BufferManager.cs" />
+    <Compile Include="Network\Game\GameConnection.cs" />
+    <Compile Include="Network\Game\GameListener.cs" />
+    <Compile Include="Network\Game\SAEAPool.cs" />
+    <Compile Include="Network\Game\SendDataToken.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\HabboEncoding.cs" />
+    <Compile Include="Utils\HabboRC4.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

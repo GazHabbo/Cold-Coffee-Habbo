@@ -1,0 +1,11 @@
+C:\Users\JoshuaTha\AppData\Local\Temporary Projects\Oldskool\bin\Debug\Oldskool.exe
+C:\Users\JoshuaTha\AppData\Local\Temporary Projects\Oldskool\bin\Debug\Oldskool.pdb
+C:\Users\JoshuaTha\AppData\Local\Temporary Projects\Oldskool\obj\x86\Debug\Oldskool.exe
+C:\Users\JoshuaTha\AppData\Local\Temporary Projects\Oldskool\obj\x86\Debug\Oldskool.pdb
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Oldskool\Oldskool\obj\x86\Debug\Oldskool.exe
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Oldskool\Oldskool\obj\x86\Debug\Oldskool.pdb
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Oldskool\Oldskool\bin\Debug\Oldskool.exe
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Oldskool\Oldskool\bin\Debug\Oldskool.pdb
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Oldskool\Oldskool\obj\x86\Debug\Oldskool.csprojResolveAssemblyReference.cache
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Reflection\Oldskool\obj\x86\Debug\Oldskool.exe
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Reflection\Oldskool\obj\x86\Debug\Oldskool.pdb

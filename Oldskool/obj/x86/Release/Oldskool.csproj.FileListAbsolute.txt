@@ -1,0 +1,4 @@
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Oldskool\Oldskool\bin\Release\Oldskool.exe
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Oldskool\Oldskool\bin\Release\Oldskool.pdb
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Oldskool\Oldskool\obj\x86\Release\Oldskool.exe
+C:\Users\JoshuaTha\Documents\Visual Studio 2010\Projects\Oldskool\Oldskool\obj\x86\Release\Oldskool.pdb
